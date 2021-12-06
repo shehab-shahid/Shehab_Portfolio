@@ -16,8 +16,8 @@ Two projects till date
 ## Data
 
 The data was provided by the university and required a lot of cleaning. 
-There were mixed data types in columns that should be numerical, columns that needed to be deleted as those variables were not going to be analyzed, columns that needed consistent data ('F' for females not 'f' and 'F'), deleting values that are not expected in a variable.
-Missing values were visualized and it was found that empty cells were negligible.
+There were mixed data types in columns that should be numerical, columns that needed to be deleted as those variables were not going to be analyzed, columns that needed consistent data ('F' for females not 'f' and 'F'), and, deleting values that are not expected in a variable.
+Missing values were then visualized and it was found that the total number of empty cells were negligible. The following matrix represents the fullness of the data.
 
 ![](images/dataset_missingvalues.png)
 
@@ -25,7 +25,8 @@ Missing values were visualized and it was found that empty cells were negligible
 
 The following recommendations were proposed based on descriptive statistics:
 * Overall the learning environment of 50 lecture theatres in University College London is impressive. In all KPI's, the data was skewed to favour high points.
-* Best and worst performing lecture theatres were identified after their repeated positings in KPI's. Out of 30 lecture theatre features, only seat comfort, desk space, room length/width, mean room temperatures and light intensities presented some correlation, although, weak. The following recommendation is therefore provided to improve poor performing lecture theatres: seat width around 500mm, deskp depth around 325mm, 750mm desk height, lecture theatre length and width around 12.5m, room height 2.5m and 20-24 degrees of room temperature.
+* Best and worst performing lecture theatres were identified after their repeated positings in KPI's. Out of 30 lecture theatre features, only seat comfort, desk space, room length/width, mean room temperatures and light intensities presented some correlation, although, weak. The following recommendation is therefore provided to improve poor performing lecture theatres: seat width around 500mm, desk depth around 325mm, 750mm desk height, lecture theatre length and width around 12.5m, room height 2.5m and 20-24 degrees of room temperature.
+* In the lecture theatre design (general) barplot below, a mean score of 3.44 was obtained over all lecture theatres on a scale of 1 to 5. In the bubble chart below, the thermal comfort chart ranges from 1 (cold) to 4 (neutral) to 7 (hot)
 
 ![](images/LT_designKPI_barplot.png)
 
