@@ -1,5 +1,5 @@
 # Shehab_Portfolio
-Two projects till date
+Two projects currently on GitHub. One Private Equity project in-progress. After Private Equity, a project will begin containing data collection through to production. 
 
 # [Descriptive and Inferential Statistics To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Descriptive_and_Inferential_Statistics_To_Determine_Performance_of_Lecture_Theatres_in_University)
 
