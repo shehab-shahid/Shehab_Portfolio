@@ -33,7 +33,7 @@ The following recommendations were proposed based on descriptive statistics:
 
 ![](images/LT_designKPI_barplot.png)
 <p align="center">
-Barplot showing mean general design rating of each Lecture Theatre. The overall mean across all Lecture Theatres is highlighted in red, 3.44
+Barplot showing mean general design rating of each Lecture Theatre. The overall mean across all Lecture Theatres is highlighted in red, 3.44 (on a scale of 1 to 5)
 </p>
 
 ![](images/boxplot_seatwidth_LTtype.png)
