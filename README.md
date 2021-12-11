@@ -49,7 +49,7 @@ Students thermal comfort perception against mean room temperature during survey.
 ## Inferential Statistics
 
 An independent, two-tailed t-test and a one-way ANOVA was carried out (all assumptions were justified), the following conclusions were reached:
-* Male thermal perception (felt hotter) had significantly higher values (4.11 ± 0.06 (no units)) compared to female thermal perception (3.93 ± 0.04) (p-value < 0.05). However, a score of 4 indicates a neutral thermal sensation, which both means are close to.
+* Male thermal perception had significantly higher values (4.11 ± 0.06 (no units)) compared to female thermal perception (3.93 ± 0.04 (no units)) (p-value < 0.05). This indicates that males felt more hotter compared to females during lectures. However, a thermal perception score of 4 indicates a neutral thermal sensation, which both means are close to.
 *  There was no statistical evidence that thermal perception between the front, middle and back seated students differs as the p-value was slightly over 0.05 (0.06).
 
 # [Mechanical Joint Simulation and Optimization](https://github.com/shehab-shahid/Mechanical_Joint_Simulation_Optimization)
