@@ -21,14 +21,14 @@ Missing values were then visualized and it was found that the total number of em
 
 ![](images/dataset_missingvalues.png)
 <p align="center">
-Missingno matrix where white cells represent missing data. Wire on the RHS shows most rows have all 50 columns filled, with the largest peak showing a row where only 36/50 columns are filled
+Missingno matrix where white cells represent missing data. Wire on the RHS shows most rows have all 50 columns filled, with the largest peak showing a row where only 36/50 columns are filled. All columns with student-entered data has missing values, most columns entered by the moderator are full.
 </p>
 
 ## Descriptive Statistics
 
 The following recommendations were proposed based on descriptive statistics:
 * Overall the learning environment of 50 lecture theatres in University College London is impressive. In all KPI's, the data was skewed to favour high points.
-* Best and worst performing lecture theatres were identified after their repeated positings in KPI's. Out of 30 lecture theatre features, only seat comfort, desk space, room length/width, mean room temperatures and light intensities presented some correlation, although, weak. The following recommendation is therefore provided to improve poor performing lecture theatres: seat width around 500mm, desk depth around 325mm, 750mm desk height, lecture theatre length and width around 12.5m, room height 2.5m and 21-24.5 degrees of room temperature.
+* Best and worst performing lecture theatres were identified after their repeated positings in KPI's. Out of 30 lecture theatre features, only seat comfort, desk space, room length/width, mean room temperatures and light intensities presented some correlation, although, weak. The following recommendation is therefore provided to improve poor performing lecture theatres: seat width around 500 mm, desk depth around 325 mm, 750 mm desk height, lecture theatre length and width around 12.5 m, room height 2.5 m and 21-24.5 degrees Celsius of room temperature.
 * The following figures summarize some of the statistics.
 
 ![](images/LT_designKPI_barplot.png)
@@ -38,12 +38,12 @@ Barplot showing mean general design rating of each Lecture Theatre. The overall 
 
 ![](images/boxplot_seatwidth_LTtype.png)
 <p align="center">
-Boxplot of seat widths depending on overall lecture theatre rating
+Boxplot of seat widths depending on overall lecture theatre rating. Optimal width seems to be around 500 mm.
 </p>
 
 ![](images/bubbleplot_thermalcomfort_meantemp.png)
 <p align="center">
-Students thermal comfort perception against mean room temperature during survey. The thermal comfort chart ranges from 1 (cold) to 4 (neutral) to 7 (hot)
+Students thermal comfort perception against mean room temperature during survey. The thermal comfort chart ranges from 1 (cold) to 4 (neutral) to 7 (hot). Optimal range to accomodate most students seems to be around 21-24.5 degrees Celsius
 </p>
 
 ## Inferential Statistics
