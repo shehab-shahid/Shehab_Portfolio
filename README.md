@@ -1,7 +1,7 @@
 # Shehab_Portfolio
-Two projects currently on GitHub. One Private Equity project in-progress. After Private Equity, a project will begin containing data collection through to production. 
+Two projects currently on GitHub. One Private Equity project in-progress. After Private Equity, a project will begin containing data scraping through to production. 
 
-# [Descriptive and Inferential Statistics To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Descriptive_and_Inferential_Statistics_To_Determine_Performance_of_Lecture_Theatres_in_University)
+# [Diagnostic, Prescreptive and Inferential Analysis To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Descriptive_and_Inferential_Statistics_To_Determine_Performance_of_Lecture_Theatres_in_University)
 
 * This is a real-life project that I completed using Excel in 2020 during my MSc and improved it using Python in 2021.
 * The project used decriptive and inferential statistics on 3953 student questionnaires, received over 50 lectures to determine performance of lecture theatres as a learning environment. 
@@ -24,7 +24,7 @@ Missing values were then visualized and it was found that the total number of em
 Missingno matrix where white cells represent missing data. Wire on the RHS shows most rows have all 50 columns filled, with the largest peak showing a row where only 36/50 columns are filled. All columns with student-entered data have missing values, most columns entered by the moderator are full.
 </p>
 
-## Descriptive Statistics
+## Diagnostic and Prescriptive Analysis
 
 The following recommendations were proposed based on descriptive statistics:
 * Overall the learning environment of 50 lecture theatres in University College London is impressive. In all KPI's, the data was skewed to favour high points.
