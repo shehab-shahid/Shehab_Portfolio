@@ -4,7 +4,7 @@ Two projects currently on GitHub. One Private Equity project in-progress. After 
 # [Diagnostic, Prescriptive and Inferential Analysis To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Descriptive_and_Inferential_Statistics_To_Determine_Performance_of_Lecture_Theatres_in_University)
 
 * This is a real-life project that I completed using Excel in 2020 during my MSc and improved it using Python in 2021.
-* The project used decriptive and inferential statistics on 3953 student questionnaires, received over 50 lectures to determine performance of lecture theatres as a learning environment. 
+* The project used Diagnostic, Prescriptive and Inferential Analysis on 3953 student questionnaires, received over 50 lectures to determine performance of lecture theatres as a learning environment. 
 * Three types of data were analyzed: students properties (gender, clothing, seat position), students perception/KPI (thermal comfort, lecture theatre rating, etc.) and lecture theatre environmental and physical properties (mean temperature, room length etc.)
 * The analysis identified the performance of lecture theatres and proposed improvements to few under-performing lecture theatres
 
