@@ -41,7 +41,7 @@ Barplot showing mean general design rating of each Lecture Theatre. The overall 
 Boxplot of seat widths depending on overall lecture theatre rating. Optimal width seems to be around 500 mm.
 </p>
 
-![](images/bubbleplot_thermalcomfort_meantemp.png)
+![](images/bubbleplot_thermalcomfort_meantemp_new.png)
 <p align="center">
 Students thermal comfort perception against mean room temperature during survey. The thermal comfort chart ranges from 1 (cold) to 4 (neutral) to 7 (hot). Optimal range to accomodate most students seems to be around 21-24.5 degrees Celsius
 </p>
