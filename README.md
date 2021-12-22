@@ -16,7 +16,7 @@ Two projects currently on GitHub. One Private Equity project in-progress. After 
 ## Data
 
 The data was provided by the university and required a lot of cleaning. 
-There were mixed data types in columns that should be numerical, columns that needed to be deleted as those variables were not going to be analyzed, columns that needed consistent data ('F' for females not 'f' and 'F'), and, deleting values that are not expected in a variable.
+There were mixed data types in columns that should be numerical, columns that needed to be deleted as those variables were not going to be analyzed, columns that needed consistent data ('F' for females, not 'f' and 'F'), and, deleting values that are not expected in a variable.
 Missing values were then visualized and it was found that the total number of empty cells were negligible. The following matrix represents the fullness of the data.
 
 ![](images/dataset_missingvalues.png)
