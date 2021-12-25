@@ -1,5 +1,5 @@
 # Shehab_Portfolio
-Two projects currently on GitHub. One Private Equity project in-progress. After Private Equity, a project will begin containing data scraping through to production. 
+Two projects currently on GitHub. One Private Equity project in-progress. After Private Equity, a project will begin containing data scraping through to production. Lastly, Capstone Projects on AWS and Azure will be carried out.
 
 # [Diagnostic, Prescriptive and Inferential Analysis To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Diagnostic_and_Inferential_Analysis_To_Determine_Performance_of_Lecture_Theatres_in_University)
 
