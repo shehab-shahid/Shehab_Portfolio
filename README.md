@@ -2,7 +2,8 @@
 Two projects currently on GitHub. One Private Equity (Data Analyst) project completed and in process of being uploaded. The following projects will then be started (in order): 
 
 * Scrape any website (so I can freelance online! - UBC, I am currently doing projects to showcase to employers whilst minimizing learning new content that is also taught on MDS)
-* Project containing data scraping through to production. 
+* Project containing data scraping through to production.
+* Excel to MySQL: Analytic Techniques for Business Specialization (Coursera) 
 * Lastly, Capstone Projects on AWS and Azure (data engineering) will be carried out.
 * Financial modelling and valuation (non-data science)
 
