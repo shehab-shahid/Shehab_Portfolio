@@ -1,5 +1,10 @@
 # Shehab_Portfolio
-Two projects currently on GitHub. One Private Equity project in-progress. After Private Equity, a project will begin containing data scraping through to production. Lastly, Capstone Projects on AWS and Azure will be carried out.
+Two projects currently on GitHub. One Private Equity (Data Analyst) project completed and in process of being uploaded. The following projects will then be started (in order): 
+
+* Scrape any website (so I can freelance online! - UBC, I am currently doing projects to showcase to employers whilst minimizing learning new content that is also taught on MDS)
+* Project containing data scraping through to production. 
+* Lastly, Capstone Projects on AWS and Azure (data engineering) will be carried out.
+* Financial modelling and valuation (non-data science)
 
 # [Diagnostic, Prescriptive and Inferential Analysis To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Diagnostic_and_Inferential_Analysis_To_Determine_Performance_of_Lecture_Theatres_in_University)
 
