@@ -5,7 +5,7 @@ Two projects currently on GitHub. One Private Equity (Data Analyst) project comp
 * Project containing data scraping through to production.
 * Excel to MySQL: Analytic Techniques for Business Specialization (Coursera) 
 * Capstone Projects on AWS and Azure (data engineering)
-* Linear Algebra Review
+* Linear Algebra Review (using suggestions from MDS courses)
 * Financial modelling and valuation (non-data science)
 
 # [Diagnostic, Prescriptive and Inferential Analysis To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Diagnostic_and_Inferential_Analysis_To_Determine_Performance_of_Lecture_Theatres_in_University)
