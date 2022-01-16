@@ -8,6 +8,18 @@ Two projects currently on GitHub. One Private Equity (Data Analyst) project comp
 * Linear Algebra Review (using suggestions from MDS courses)
 * Financial modelling and valuation (non-data science)
 
+# [Forecasting Sales and Identifying Anomalies in Journals for Private Equity Investment](https://github.com/shehab-shahid/Forecasting_Sales_And_Identifying_Anomalies_In_Journals_For_Private_Equity_Invesment)
+
+* This project was part of the Institute of Chartered Accountants in England and Wales (ICAEW) Private Equity (Data Analyst) course.
+* A Private Equity firm is looking to invest in SuperStore, an international retailer that offers office supplies, furniture and technology. The firm wants to use Data Science to assess SuperStore's financial performance and management controls.
+* The project used Python to identify any fraudulent or anomalous journal entries (PCA, clustering) and that segregation of duties in journals also exists
+* The financial performance required forecasting sales and profits (using ARIMA) for the next five years to see if the net profit on sales increases by 10% annually and sales grow by 25% annually. Non-profitable regions also needed to be identified.
+* From a financial perspective, SuperStore's forecasted sales and profits overall across all regions meet the target required for investment. However, the West Africa region is underperforming. As the company was originally founded in the West Africa region, simply closing it might be complex. Thus, to make it profitable, the high level of discounts could be reduced.
+* From a financial control perspective, numerous flaws were found in the journal. Segragation of duties is not always followed as one employee can prepare and authorize the same journal entry. Delegation of authority is also not always followed and there are anomalies within the journals, including entries posted outside of normal hours. Thus, if SuperStore can improve their financial controls, the private equity firm should invest.
+* The GitHub repo and Jupyter Notebook files are being finalized. The following figure showcases the sales forecast.
+
+![](images/SalesForecast.png)
+
 # [Diagnostic, Prescriptive and Inferential Analysis To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Diagnostic_and_Inferential_Analysis_To_Determine_Performance_of_Lecture_Theatres_in_University)
 
 * This is a real-life project that I completed using Excel in 2020 during my MSc and improved it using Python in 2021.
