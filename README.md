@@ -1,11 +1,21 @@
 # Shehab_Portfolio
-Two projects currently on GitHub. One Private Equity (Data Analyst) project completed and in process of being uploaded. The following projects will then be started (in order): 
+Three projects currently on GitHub. 
 
-* Scrape any website (so I can freelance online! - UBC, I am currently doing projects to showcase to employers whilst minimizing learning new content that is also taught on MDS)
+The first project (Mechanical Joint Simulation and Optimization, BEng thesis), was my first experience with Data Science that made me immediately realize it's power and potential (please see dashboard at end of webpage). 
+
+The second project introduced me to Diagnostic, Prescriptive and Inferential Analysis using Python on data that included performance of lecture halls and student perceptions. 
+
+In the third project, I applied Diagnostic Analysis and Forecasting on financial datasets using Python. 
+
+I believe I have mastered Data Analysis in Python. I am now furthering my Data Analyst skills in SQL and will then move onto Data Science and Engineering topics.
+
+The following projects are now underway (in order): 
+
+* Scrape any website
 * Project containing data scraping through to production.
 * Excel to MySQL: Analytic Techniques for Business Specialization (Coursera) 
 * Capstone Projects on AWS and Azure (data engineering)
-* Linear Algebra Review (using suggestions from MDS courses)
+* Linear Algebra Review
 * Financial modelling and valuation (non-data science)
 
 # [Forecasting Sales and Identifying Anomalies in Journals for Private Equity Investment](https://github.com/shehab-shahid/Forecasting_Sales_And_Identifying_Anomalies_In_Journals_For_Private_Equity_Invesment)
