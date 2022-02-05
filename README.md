@@ -12,13 +12,25 @@ Two projects currently on GitHub. One Private Equity (Data Analyst) project comp
 
 * This project was part of the Institute of Chartered Accountants in England and Wales (ICAEW) Private Equity (Data Analyst) course.
 * A Private Equity firm is looking to invest in SuperStore, an international retailer that offers office supplies, furniture and technology. The firm wants to use Data Science to assess SuperStore's financial performance and management controls.
-* The project used Python to identify any fraudulent or anomalous journal entries (PCA, clustering) and that segregation of duties in journals also exists
-* The financial performance required forecasting sales and profits (using ARIMA) for the next five years to see if the net profit on sales increases by 10% annually and sales grow by 25% annually. Non-profitable regions also needed to be identified.
-* From a financial perspective, SuperStore's forecasted sales and profits overall across all regions meet the target required for investment. However, the West Africa region is underperforming. As the company was originally founded in the West Africa region, simply closing it might be complex. Thus, to make it profitable, the high level of discounts could be reduced.
-* From a financial control perspective, numerous flaws were found in the journal. Segragation of duties is not always followed as one employee can prepare and authorize the same journal entry. Delegation of authority is also not always followed and there are anomalies within the journals, including entries posted outside of normal hours. Thus, if SuperStore can improve their financial controls, the private equity firm should invest.
-* The GitHub repo and Jupyter Notebook files are being finalized. The following figure showcases the sales forecast.
+* The project used Python to identify any anomalous journal entries and whether segregation of duties in journal entries exists. It was found that management controls were breached only a few times.
+* The financial performance required forecasting profits (using ARIMA) for the next four years across all regions to see if the net profit on sales increases by 10% annually, this condition was met as the forecast indicated a growth of 24%. Non-profitable regions (Western Africa) were identified and it was found that reducing the high value of discounts could turn these into a profitable region.
+* Overall, SuperStore only needs to address its management controls in order to acquire investment from the Private Equity firm.
+* The following figure showcases the profits forecast.
 
-![](images/SalesForecast.png)
+![](images/Profit_prediction.png)
+
+## Code used
+
+### Python version: 3.8.8
+### Packages: pandas, numpy, seaborn, matplotlib
+
+## Data
+The sales data was obtained from SuperStore (2016-2019), which is available from Tableau or Kaggle online. The Journals dataset was provided by ICAEW and is not available online. Only snippets of the dataset can be viewed in the Jupyter notebooks within this repo.
+
+The sales dataset had missing values which were found and replaced from data within the dataset itself. The Journals dataset required merging and appending with the Accounts Team Staff dataset. Overall, both datasets were 100% complete.
+
+There are three Jupyter Notebooks in this repo. Wrangling contains the data cleaning process. EDA consists of examining management controls and diagnostic analysis of sales. Profits Predictive Modelling contains the ARIMA model setup.
+
 
 # [Diagnostic, Prescriptive and Inferential Analysis To Determine Performance of Lecture Theatres in University](https://github.com/shehab-shahid/Diagnostic_and_Inferential_Analysis_To_Determine_Performance_of_Lecture_Theatres_in_University)
 
