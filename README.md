@@ -15,7 +15,7 @@ Two projects currently on GitHub. One Private Equity (Data Analyst) project comp
 * The project used Python to identify any anomalous journal entries and whether segregation of duties in journal entries exists. It was found that management controls were breached only a few times.
 * The financial performance required forecasting profits (using ARIMA) for the next four years across all regions to see if the net profit on sales increases by 10% annually, this condition was met as the forecast indicated a growth of 24%. Non-profitable regions (Western Africa) were identified and it was found that reducing the high value of discounts could turn these into a profitable region.
 * Overall, SuperStore only needs to address its management controls in order to acquire investment from the Private Equity firm.
-* The following figure showcases the profits forecast.
+* The following figure showcases the profits forecast (RMSE: 9741).
 
 ![](images/Profit_prediction.png)
 
