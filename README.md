@@ -1,11 +1,11 @@
 # Shehab_Portfolio
 Three projects currently on GitHub.
 
-The first project (Mechanical Joint Simulation and Optimization, BEng thesis), was my first experience with Data Science that made me immediately realize it's power and potential (please see dashboard at end of webpage). 
+* The first project (Mechanical Joint Simulation and Optimization, BEng thesis), was my first experience with Data Science that made me immediately realize it's power and potential (please see dashboard at end of webpage). 
 
-The second project consists of Diagnostic, Prescriptive and Inferential Analysis using Python on data that included performance of lecture halls and student perceptions. 
+* The second project consists of Diagnostic, Prescriptive and Inferential Analysis using Python on data that included performance of lecture halls and student perceptions. 
 
-In the third project, I applied Diagnostic Analysis and Forecasting on financial datasets using Python. 
+* In the third project, I applied Diagnostic Analysis and Forecasting on financial datasets using Python. 
 
 Following Data Analysis projects in Python, I am now furthering my Data Analyst skills in SQL and will then move onto Data Science and Engineering topics.
 
