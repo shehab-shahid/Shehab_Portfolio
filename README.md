@@ -15,7 +15,7 @@ The following projects are now underway (in order):
 * Scrape any website
 * Project containing Machine Learning (Multiple Linear Regression) and production.
 * Capstone Projects on AWS and Azure (data engineering)
-* Linear Algebra Review
+* Data Structures and Algorithms
 * Financial modelling and valuation (non-data science)
 
 # [Forecasting Sales and Identifying Anomalies in Journals for Private Equity Investment](https://github.com/shehab-shahid/Forecasting_Sales_And_Identifying_Anomalies_In_Journals_For_Private_Equity_Invesment)
