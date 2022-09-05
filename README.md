@@ -9,13 +9,12 @@ Three projects currently on GitHub.
 
 Following Data Analysis projects in Python, I am now furthering my Data Analyst skills in SQL and will then move onto Data Science and Engineering topics.
 
-The following projects are now underway (in order): 
-
-* Excel to MySQL: Analytic Techniques for Business Specialization (Coursera) 
+The following projects are now underway: 
+ 
 * Scrape any website
-* Project containing Machine Learning (Multiple Linear Regression) and production.
-* Capstone Projects on AWS and Azure (data engineering)
-* Data Structures and Algorithms
+* Project containing Machine Learning (Multiple Linear Regression) and production
+* Google Intro To Data Structures and Algorithms Certificate
+* IBM Data Engineering Certificate
 * Financial modelling and valuation (non-data science)
 
 # [Forecasting Sales and Identifying Anomalies in Journals for Private Equity Investment](https://github.com/shehab-shahid/Forecasting_Sales_And_Identifying_Anomalies_In_Journals_For_Private_Equity_Invesment)
