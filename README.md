@@ -7,15 +7,6 @@ Three projects currently on GitHub.
 
 * In the third project, I applied Diagnostic Analysis and Forecasting on financial datasets using Python. 
 
-Following Data Analysis projects in Python, I am now furthering my Data Analyst skills in SQL and will then move onto Data Science and Engineering topics.
-
-The following projects are now underway: 
- 
-* Scrape any website
-* Project containing Machine Learning (Multiple Linear Regression) and production
-* Google Intro To Data Structures and Algorithms Certificate
-* IBM Data Engineering Certificate
-* Financial modelling and valuation (non-data science)
 
 # [Forecasting Sales and Identifying Anomalies in Journals for Private Equity Investment](https://github.com/shehab-shahid/Forecasting_Sales_And_Identifying_Anomalies_In_Journals_For_Private_Equity_Invesment)
 
